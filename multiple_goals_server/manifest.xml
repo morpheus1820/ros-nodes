@@ -1,0 +1,17 @@
+<package>
+  <description brief="multiple_goals_server">
+
+     A server that creates a list of goals from rviz and send them to the navigation stack.
+
+  </description>
+  <author>Stefano Rosa, Luca Carlone</author>
+  <license url="http://www.gnu.org/licenses/gpl.html">GPL</license>
+  <review status="unreviewed" notes=""/>
+  <depend package="move_base_msgs"/>
+  <depend package="actionlib"/>
+  <depend package="roscpp"/>
+  <depend package="tf"/>
+
+</package>
+
+
