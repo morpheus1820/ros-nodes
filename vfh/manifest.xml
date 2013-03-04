@@ -1,0 +1,19 @@
+<package>
+  <description brief="vfh">
+
+     vfh+ local path planner
+
+  </description>
+  <author>Stefano Rosa, Luca Carlone</author>
+  <license url="http://www.opensource.org/licenses/BSD-3-Clause">BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/vfh</url>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="tf"/>
+  <depend package="geometry_msgs"/>
+  <depend package="nav_msgs"/>
+
+</package>
+
+
