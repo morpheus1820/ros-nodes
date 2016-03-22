@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/obstacle_avoidance/!svn/ver/2/vfh_local_planner
+END
+blp_plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/obstacle_avoidance/!svn/ver/2/vfh_local_planner/blp_plugin.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/obstacle_avoidance/!svn/ver/2/vfh_local_planner/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/obstacle_avoidance/!svn/ver/2/vfh_local_planner/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/obstacle_avoidance/!svn/ver/2/vfh_local_planner/Makefile
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/obstacle_avoidance/!svn/ver/2/vfh_local_planner/manifest.xml
+END

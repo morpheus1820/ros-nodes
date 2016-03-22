@@ -1,0 +1,30 @@
+<package>
+  <description brief="vfh_local_planner">
+
+     vfh_local_planner
+
+  </description>
+  <author>camilla</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/vfh_local_planner</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+  <depend package="costmap_2d"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="roslib"/>
+  <depend package="nav_core"/>
+  <depend package="nav_msgs"/>
+  <depend package="eigen" />
+  <depend package="base_local_planner" />
+  <depend package="dynamic_reconfigure" />
+  <export>
+    <cpp cflags="-I${prefix}/include -I${prefix}/cfg/cpp" lflags="-Wl,-rpath,${prefix}/lib -L${prefix}/lib -lvfh_local_planner" />
+    <nav_core plugin="${prefix}/blp_plugin.xml" />
+  </export>
+
+</package>
+
+
