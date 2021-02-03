@@ -12,5 +12,5 @@ Robotics and Automation, 1998.
 VFH+ as a local planner for `move_base`.
 
 
-###multiple_goals_server
+### multiple_goals_server
 Node for waypoint-based navigation; sends multiple goals using actions.
